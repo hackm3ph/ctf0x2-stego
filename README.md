@@ -8,4 +8,4 @@ Goal: Decode the secret key.
 
 type: stego
 
-Hints: what is my call sign?
+Hint: what is my call sign?
